@@ -11,6 +11,7 @@ import {
 
 const Layout = ({ pageTitle, children }) => {
 
+  // static query to use in “building block” components
   const data = useStaticQuery(graphql`
     query {
       site {
