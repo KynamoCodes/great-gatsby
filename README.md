@@ -52,6 +52,3 @@
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
-
-
-Post requests can use: https://webhook.gatsbyjs.com/hooks/data_source/37907d42-d83c-4b39-8426-321fed377840
